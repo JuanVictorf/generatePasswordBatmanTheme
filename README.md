@@ -59,7 +59,9 @@ bat-pass-app/
 
 ## Screenshots
 <img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/030e2a3e-8191-4ae6-ac95-92b1c8b350bf" />
-![dda95e38-9617-4417-b7e2-b1a8489bce4b](https://github.com/user-attachments/assets/77b19331-fd1c-44bf-85c4-add35296e317)
+
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/306732c5-99ef-4d7e-865b-8cecafa271ac" />
+
 
 
 
